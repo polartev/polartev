@@ -23,5 +23,4 @@ I am a developer with experience in full-stack development, specializing in cros
 
 ## 📫 Contact
 - Email: [polartev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=polartev@gmail.com)
-- Public profile: [LinkedIn](https://www.linkedin.com/in/artempolishchuk-it/)  
-- Personal Web Project: [Stories-Teller.com](https://stories-teller.com)
+- Public profile: [LinkedIn](https://www.linkedin.com/in/artempolishchuk-it/)
