@@ -1,3 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Artem Polishchuk
 
-![Metrics](https://metrics.lecoq.io/polartev?template=classic&isocalendar=1&lines=1&activity=1&screenshot=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&screenshot=false&screenshot.title=Screenshot&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Europe%2FBerlin)
+Full-stack Developer | C++, C#, .NET, PHP, Python | UI/UX & AI Enthusiast  
+
+[![GitHub followers](https://img.shields.io/github/followers/polartev?label=Follow&style=social)](https://github.com/polartev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artempolishchuk-it/)
+[![Website](https://img.shields.io/badge/Website-Stories--Teller.com-blue)](https://stories-teller.com)
+
+---
+
+## 🧑‍💻 About Me
+I am a developer with experience in full-stack development, specializing in cross-platform applications, UI/UX design, and AI integrations. I enjoy writing clean code, building user-friendly interfaces, and exploring AI solutions.
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** C++, C#, PHP, Python  
+- **Frameworks & Technologies:** .NET, WPF, MySQL, JSON, XML, AI/ML Libraries  
+- **UI/UX & Design:** User Interface Design, Design Patterns  
+- **Servers & DevOps:** Ubuntu, VPS, Server Administration  
+
+---
+
+## 📫 Contact
+- [Email](polartev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/artempolishchuk-it/)  
+- [Stories-Teller.com](https://stories-teller.com)
